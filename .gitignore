@@ -1,0 +1,35 @@
+# Thư mục và tệp từ Visual Studio
+.vs/
+*.user
+*.suo
+
+# Các thư mục và file build
+bin/
+obj/
+out/
+
+# Thông tin cấu hình máy tính cá nhân
+*.vscode
+*.swp
+
+# Các file lock và tạm thời
+*.log
+*.lock
+*.tmp
+*.temp
+
+# Các file liên quan đến hệ điều hành
+Thumbs.db
+.DS_Store
+
+# Các file môi trường ảo hoặc cấu hình ẩn
+.env
+node_modules/
+
+# Các file package lock
+package-lock.json
+yarn.lock
+
+# Thông tin riêng tư như API key, credentials
+secrets.json
+appsettings.*.json

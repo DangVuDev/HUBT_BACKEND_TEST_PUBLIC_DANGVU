@@ -1,0 +1,7 @@
+[*.cs]
+
+# SYSLIB0023: Type or member is obsolete
+dotnet_diagnostic.SYSLIB0023.severity = none
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
