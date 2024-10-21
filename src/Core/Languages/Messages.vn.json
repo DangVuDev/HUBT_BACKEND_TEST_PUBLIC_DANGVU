@@ -1,0 +1,7 @@
+{
+    "UnableSendOTP": "Không thể gửi mã OTP. Vui lòng thử lại.",
+    "InvalidLanguage": "Ngôn ngữ không hợp lệ.",
+    "LanguageChanged": "Ngôn ngữ đã được thay đổi thành công.",
+    "LanguageChangeFailed": "Thay đổi ngôn ngữ không thành công."
+}
+  
