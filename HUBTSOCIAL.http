@@ -1,6 +1,0 @@
-@HUBTSOCIAL_HostAddress = http://localhost:5263
-
-GET {{HUBTSOCIAL_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
